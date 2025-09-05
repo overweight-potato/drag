@@ -51,3 +51,4 @@ local function Drag(gui)
 
     runService.Heartbeat:Connect(Update)
 end
+return Drag
